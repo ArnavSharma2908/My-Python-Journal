@@ -292,7 +292,7 @@
   * `OrderedDict`
  * `heapq`
 * `itertools`
-* `functools`
+* `functools -> lru_cache, reduce`
 ### OPTIONAL
 * `os`
 * `sys` `(sys.stdin.readline(),sys.stdout.write())`
