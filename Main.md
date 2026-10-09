@@ -208,6 +208,7 @@
 ---
 ## 9. Generators
 * `yield` function
+* `yield from` (tree traversal)
 * Generator functions
 * Generator expressions
 * Lazy evaluation (important concept)
