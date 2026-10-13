@@ -73,7 +73,7 @@
 * `type()` function
 * Overview of built-in functions
 * Python keywords(yellow)
-* Import modules (whole module, selective func/attr from module, all func/attr from module) aliasing
+* Import modules (whole module, selective func/attr from module, all func/attr from module) aliasing, lazy imports/from imports
 * Classes (very basic idea)
 
 ---
@@ -130,6 +130,7 @@
 * Built-in functions
 * List Comprehension (IMPORTANT)
   * Nested comprehension (intro)
+  * Unpacking on Comprehenstion (Python 3.15+)
 
 ---
 ## 6. Datatypes IV: set, frozenset, dict
@@ -230,7 +231,7 @@
 ### Keywords
 * Reserved words (cannot be used as identifiers)
 * Examples:
-  `False, None, True, and, as, assert, async, await, break, class, continue, def, del, elif, else, except, finally, for, from, global, if, import, in, is, lambda, nonlocal, not, or, pass, raise, return, try, while, with, yield, match, case`
+  `False, None, True, and, as, assert, async, await, break, class, continue, def, del, elif, else, except, finally, for, from, global, if, import, in, is, lambda, nonlocal, not, or, pass, raise, return, try, while, with, yield, match, case, lazy`
 ### Tokens (Lexical Units)
 * Smallest units of Python code:
   * Keywords
