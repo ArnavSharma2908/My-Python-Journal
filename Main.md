@@ -277,6 +277,11 @@
 
 ---
 ## 15. Essential Utility Libraries (Built-in)
+### Dev & Backend
+* `uv/conda` (Important for venv management)
+* `django`
+* `flask`
+* `fastapi`
 ### Math & Computation
 * `math`
 * `random`
